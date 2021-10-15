@@ -1,0 +1,1 @@
+This is a project with purpose of teaching children how to use mouse with some minigames 
